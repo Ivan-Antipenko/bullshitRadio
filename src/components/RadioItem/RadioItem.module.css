@@ -1,0 +1,29 @@
+.frame_section {
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 60px);
+  margin: 0 auto;
+}
+
+.frame_wrapper {
+  margin-top: 30px;
+  width: 1000px;
+  height: 600px;
+  overflow: hidden;
+}
+
+.frame {
+  margin-top: -70px;
+  width: 100%;
+  height: 100%;
+}
+
+.player_box {
+  display: flex;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.cartridge {
+  width: 600px;
+}
